@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gauravjagtap-2611
+- 👋 Hi I’m @gauravjagtap-2611, Data Scientist @ A.P.Moller Maersk 
 - 👀 I’m looking forward to solve real world problems using Machine Learning, Deep Learning and Statistics.
-- 🌱 I’m currently persuing Masters in Statistics(M.Sc). 
-- 💞️ I’m a fresher, eagerly waiting to establish a Data Analytics carrer.
+- 🌱 I pursued Masters in Statistics(M.Sc). 
 - 📫 You can reach out to me at my mailing address gauravjagtap2611@gmail.com
 
 <!---
